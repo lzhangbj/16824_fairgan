@@ -1,0 +1,17 @@
+opencv-python
+Pillow
+tqdm
+joblib
+cmake
+dlib
+tensorboardx
+requests
+sklearn
+scipy
+tensorboard
+mmcv
+git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
+matplotlib
+ninja
+efficientnet-pytorch
+timm
